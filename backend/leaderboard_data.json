@@ -1,0 +1,52 @@
+[
+    {
+        "name": "nandini",
+        "wealth": 1400714.496558905,
+        "strategy": "meera"
+    },
+    {
+        "name": "rohan",
+        "wealth": 1353661.1071218601,
+        "strategy": "rohan"
+    },
+    {
+        "name": "rajendra",
+        "wealth": 1241974.126425001,
+        "strategy": "raj"
+    },
+    {
+        "name": "anika",
+        "wealth": 1135999.4741075693,
+        "strategy": "vijay"
+    },
+    {
+        "name": "raj",
+        "wealth": 1123945.2302220168,
+        "strategy": "raj"
+    },
+    {
+        "name": "vijay",
+        "wealth": 1122067.9946323119,
+        "strategy": "vijay"
+    },
+    {
+        "name": "meera",
+        "wealth": 1122000.7271193163,
+        "strategy": "meera"
+    },
+    {
+        "name": "rohan",
+        "wealth": 1115827.6151008685,
+        "strategy": "rohan"
+    },
+    {
+        "name": "meera",
+        "wealth": 1089275.547018398,
+        "strategy": "meera"
+    },
+    {
+        "name": "rohan",
+        "wealth": 1070333.709998274,
+        "strategy": "rohan"
+    }
+]
