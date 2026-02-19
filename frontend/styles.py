@@ -8,7 +8,7 @@ def get_img_as_base64(file_path):
 
 def load_styles():
     # Path to background image
-    bg_path = os.path.join("assets", "background.png")
+    bg_path = os.path.join("assets", "Background.png")
     bg_base64 = ""
     if os.path.exists(bg_path):
         bg_base64 = get_img_as_base64(bg_path)

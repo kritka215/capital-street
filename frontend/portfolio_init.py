@@ -23,7 +23,7 @@ def get_event_image(event):
         "gfc": "GFC .png",
         "rate_shock": "Interest rate shock.png", 
         "inflation_shock": "Inflation shock.png",
-        "liquidity_shock": "Domestic Liquidity shock.png", # lowercase 's'
+        "liquidity_shock": "Domestic Liquidity shock.png",
         "credit_crisis": "Shadow Banking crisis.png",
         "currency_flight": "Currency Flight Crisis.png",
         "bubble_burst": "Asset Bubble Burst.png",
